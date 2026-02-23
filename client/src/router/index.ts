@@ -4,7 +4,7 @@ import Host from '../views/Host.vue'
 import Join from '../views/Join.vue'
 
 export const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/among-us-irl/'),
   routes: [
     { path: '/', component: Home },
     { path: '/host', component: Host },
