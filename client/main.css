@@ -1,0 +1,11 @@
+html,
+body,
+#app {
+  font-family: 'Audiowide', sans-serif;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
