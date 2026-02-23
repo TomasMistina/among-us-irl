@@ -45,6 +45,7 @@ const timerClass = computed(() => ({
   font-family: 'Orbitron', monospace;
   font-weight: bold;
   font-size: 2rem;
+  margin-bottom: 1rem;
   color: #22c55e; /* neon green */
   text-shadow:
     0 0 5px #22c55e,

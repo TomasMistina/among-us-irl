@@ -72,7 +72,10 @@ watch(
 }
 
 .join-bg {
-  background: radial-gradient(circle, #0e0a45db, #020617);
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #1e293b, #020617);
+  color: white;
+  font-family: 'Audiowide', sans-serif;
 }
 
 .pending-bg {
